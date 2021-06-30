@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "gestionare-activitati": {
+      "hosting": {
+        "agendapersonala": [
+          "gestionare-activitati"
+        ]
+      }
+    }
+  }
+}
